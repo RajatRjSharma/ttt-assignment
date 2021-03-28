@@ -1,3 +1,5 @@
+This is a View Result by Roll No. In which roll number are passed in form of in comma seperated list we need to extract roll number from it and run a api to check for pass or fail then out put a table format of Roll Number vs Result.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
